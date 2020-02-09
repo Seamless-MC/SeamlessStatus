@@ -1,0 +1,15 @@
+#  / ___/___  ____ _____ ___  / /__  __________
+#  \__ \/ _ \/ __ `/ __ `__ \/ / _ \/ ___/ ___/
+# ___/ /  __/ /_/ / / / / / / /  __(__  |__  )
+#/__________\__,_/_/___/ /_/_/\___/____/____/
+#  / ___// /_____ _/ /___  _______
+#  \__ \/ __/ __ `/ __/ / / / ___/
+# ___/ / /_/ /_/ / /_/ /_/ (__  )
+#/____/\__/\__,_/\__/\__,_/____/
+#By DroppingAnvil
+BotToken: ''
+# in ticks 240 was the max Discord would allow in 2016 might be less now
+Refresh: 240
+ShuttingDown: 'Server Offline'
+Whitelisted: 'Seamless Factions, Currently Whitelisted {PLAYERS}/{MAX}'
+Normal: 'Seamless Factions, {PLAYERS} players online'
